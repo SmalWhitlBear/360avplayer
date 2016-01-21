@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=150001000
+http://63.159.216.109/ucloud/test/playlist.m3u8?wsHost=vlive3.hls.cdn.ucloud.com.cn&wsSession=f8d5802347aa6cf0e17edc40-145223789420488&wsIPSercert=7220dc4a4da2a03c0d336008bf772a29&wsMonitor=0
